@@ -22,8 +22,8 @@ Those same instructions are summarized here in text:
 
 1. If this is your first time using Gradescope, you will need to set a password:
 
-In the confirmation email you received from Gradescope, click the set your password link.
-Enter the same password in the password and password confirmation fields, and click Set Password.
+    > In the confirmation email you received from Gradescope, click the set your password link.
+    > Enter the same password in the password and password confirmation fields, and click Set Password.
 
 1. You can now access Gradescope through your Canvas course.
 
