@@ -21,6 +21,11 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
+
+      - name: Set Git config
+        run: |
+          git config user.email "test@test.com"
+          git config user.name "GHClassroomBot"
       
       - name: Get current date
         id: date
