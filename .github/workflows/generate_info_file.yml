@@ -16,7 +16,7 @@ jobs:
     # The type of runner that the job will run on, and it will only run if it's not the GH Classroom bot
     if: ${{ github.actor != 'github-classroom[bot]' }}
     runs-on: ubuntu-latest
-    
+
     permissions:
       contents: write
 
@@ -46,7 +46,9 @@ jobs:
           Please do not edit the contents of this file, it will be updated automatically via a GitHub Action each time you commit to this repo.
           Note: you will have to run `git pull` every time this happens to pull the most recent changes, this will also help you practice git commands!
           
-          GitHub Username: ${{ env.author }}
+          GitHub Username: ${{ github.actor }}
+          
+          Author: ${{ env.author }}
 
           Last Run Date: ${{ env.date }}
           
