@@ -8,11 +8,7 @@ Once you are done with his homework, **you will need to submit your repository f
 
 **NOTE: If you make any changes to your GitHub repository after submitting on Gradescope, you MUST re-submit on Gradescope to make sure we grade the latest version of your repository. You may submit on Gradescope as many times as you like before the due date.**
 
-We have recorded a video with some instructions on how to submit your homework on Gradescope:
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/570761775?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Submitting your GitHub Classroom assignment via Gradescope"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-[Click here to view the video in a new browser window](https://vimeo.com/570761775).
+We have [recorded a video with some instructions](https://vimeo.com/570761775) on how to submit your homework on Gradescope:
 
 Those same instructions are summarized here in text:
 
