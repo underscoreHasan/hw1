@@ -8,15 +8,19 @@ Once you are done with his homework, **you will need to submit your repository f
 
 **NOTE: If you make any changes to your GitHub repository after submitting on Gradescope, you MUST re-submit on Gradescope to make sure we grade the latest version of your repository. You may submit on Gradescope as many times as you like before the due date.**
 
-We have [recorded a video with some instructions](https://vimeo.com/570761775) on how to submit your homework on Gradescope:
+We have [recorded a video with some instructions](https://vimeo.com/1006094160) on how to submit your homework on Gradescope:
 
 Those same instructions are summarized here in text:
 
-1. Accept the GitHub Classroom assignment for this lab (likely already done)
+1. On the GitHub repository, click "Use this Template" the GitHub Classroom assignment for this lab (likely already done)
+
+![](img/template.png)
+
+1. Clone the repository locally.
 
 1. Commit and push your change to GitHub.
 
-1. Log in to your Canvas course, and click Gradescope in the left sidebar.
+1. Log in to the Canvas course, and click Gradescope in the left sidebar.
 
 1. You will be enrolled in the course and receive a confirmation email. Gradescope will also open in a new window/tab with your course dashboard and all active assignments.
 
