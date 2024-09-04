@@ -12,7 +12,7 @@ We have [recorded a video with some instructions](https://vimeo.com/1006094160) 
 
 Those same instructions are summarized here in text:
 
-1. On the GitHub repository, click "Use this Template" the GitHub Classroom assignment for this lab (likely already done)
+1. On the GitHub repository, click "Use this Template" to create a repository under your account for this homework assignment
 
 ![](img/template.png)
 
