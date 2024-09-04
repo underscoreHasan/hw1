@@ -12,13 +12,13 @@ We have [recorded a video with some instructions](https://vimeo.com/1006094160) 
 
 Those same instructions are summarized here in text:
 
-1. On the GitHub repository, click "Use this Template" to create a repository under your account for this homework assignment
+1. On the GitHub repository, click "Use this Template" to create a repository under your account for this homework assignment. Remember to set the repository as Private!
 
 ![](img/template.png)
 
 1. Clone the repository locally.
 
-1. Commit and push your change to GitHub.
+1. Complete your assignment, then commit and push your change to GitHub.
 
 1. Log in to the Canvas course, and click Gradescope in the left sidebar.
 
